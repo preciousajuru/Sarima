@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Precious Ajuru</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+            color: #5D5C61;
+        }
+        h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+            border-bottom: 2px solid #5D5C61;
+            padding-bottom: 5px;
+            color: #5D5C61;
+        }
+        p, ul {
+            font-size: 16px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Precious Ajuru</h1>
+        <div class="contact-info">
+            <p>19 Marlesford Close, Sunderland, SR3 2QW.</p>
+            <p>07776639785</p>
+            <p><a href="mailto:precious.ajuru@gmail.com">precious.ajuru@gmail.com</a></p>
+            <p><a href="https://www.linkedin.com/in/preciousajuru" target="_blank">LinkedIn: preciousajuru</a></p>
+        </div>
+
+        <div class="section">
+            <h2>Professional Summary</h2>
+            <p>A highly motivated and passionate Azure Cloud Infrastructure Engineer with a proven track record in digital transformation and cloud strategy. With extensive experience in designing, deploying, and managing Azure solutions, I excel at helping clients integrate advanced cloud technologies to drive business efficiency and innovation. Recognized for outstanding client relationships and delivering high-quality services, I thrive in challenging environments and am committed to continuous professional growth. My expertise includes project management, digital strategy advisory, and hands-on technical implementation, making me a valuable asset for leading cloud transformation initiatives.</p>
+        </div>
+
+        <div class="section">
+            <h2>Experience</h2>
+            <ul>
+                <li><strong>Azure Cloud Infrastructure Engineer</strong> - Sci-net Business Solutions UK Limited (April 2023 - Present)</li>
+                <p>Designs, deploys, and manages Azure solutions, focusing on computing, networking, storage, monitoring, and security to support business growth and transformation for Clients. Implements and manages comprehensive monitoring solutions using Grafana to ensure optimal performance of client infrastructures. Configures, deploys, and tests Microsoft Dynamics 365 NAV and Business Central applications, ensuring seamless integration and functionality within client environments. Develops and maintains infrastructure using Bicep and ARM templates, automating deployment processes to enhance efficiency and reduce operational risks. SSL generation and configuration for clients' applications (365 NAV and BC) using CertBot automation. SQL database restoration and migration to Azure. Manages database redaction for clients. Coordinated the migration of Azure Databricks workspace and node clusters for a client. Manages infrastructure deployments using PowerShell and IaC (Biceps). Works closely with cross-functional teams, including cloud architects, Business Central developers, and business stakeholders, to deliver comprehensive cloud solutions that meet our client needs and drive digital transformation.</p>
+
+                <li><strong>Technology Consultant</strong> - PwC Nigeria (Oct. 2021 - Oct. 2022)</li>
+                <p>Cloud And Digital Strategy. Regularly coordinated assessments of clients' cloud and digital technology capabilities and readiness, using leading industry tools. Coordinated and supported the development of the IT diagnostic and future state reports for leading banks and legal firms in Nigeria. Performed cloud technology and digital solutions mapping as they speak to clients' business needs. Actively participated in the development of cloud adoption roadmap for clients using industry-standard cloud adoption frameworks. Led the digital technology project team for the upgrade of a CORE banking and BPM solutions in Nigeria's Bank Of Industry (BOI). PMO. Regularly coordinated and supported in developing IT Project Management plans and schedules for clients. Supported in the development of Project Charters for clients. Monitored and tracked key issues during project delivery.</p>
+
+                <li><strong>Technology Project Manager (BIM)</strong> - MaxMigold Nigeria Limited (Jul. 2020 - Sept. 2021)</li>
+                <p>Coordinated and led the implementation of Building Information Modelling (BIM) technology for a facility management project, ensuring adherence to timelines, budgets, and quality standards. Collaborated with cross-functional teams, including architects, engineers, contractors, and facility managers, to gather and integrate data, design models, and project plans into BIM software platforms.</p>
+
+                <li><strong>Project Services</strong> - Dorisdesmond Nigeria Limited (Feb. 2019 - Jun. 2020)</li>
+                <p>Project management and services for various clients.</p>
+
+                <li><strong>Maintenance (Contract)</strong> - Worldwide Oilfield Machine (WOM) UK Limited (Sept. 2018 - Dec. 2018)</li>
+                <p>Short-term contract for maintenance services.</p>
+
+                <li><strong>Project Services</strong> - Dorisdesmond Nigeria Limited (Oct. 2016 - Sept. 2017)</li>
+                <p>Project management and services for various clients.</p>
+
+                <li><strong>Corps Liaison Officer</strong> - NYSC Akwa Ibom State (Mar. 2016 - Oct. 2016)</li>
+                <p>Temporary role during national service.</p>
+
+                <li><strong>Reservoir Engineering Trainee</strong> - Laser Petroleum And Geoscience Center (Jul. 2013 - Dec. 2013)</li>
+                <p>Training in reservoir engineering practices.</p>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>MSc In Drilling And Well Engineering</strong> - Robert Gordon University, Aberdeen, UK (2018)</li>
+                <li><strong>BEng In Petroleum Engineering</strong> - University Of Port Harcourt, Nigeria (2015)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Microsoft Certified: Azure Solutions Architect Expert</li>
+                <li>Microsoft Certified: Azure Administrator Associate</li>
+                <li>Microsoft Certified: Identity and Access Administrator Associate</li>
+                <li>Microsoft Certified: Azure Network Engineer Associate</li>
+                <li>Microsoft Certified: Azure Virtual Desktop Specialty</li>
+                <li>Microsoft 365 Certified: Fundamentals</li>
+                <li>Microsoft Certified: Azure Fundamentals</li>
+                <li>PRINCE2® (Foundation & Practitioner)</li>
+                <li>Professional Scrum Master (Scrum.org)</li>
+                <li>IT Audit Fundamentals Certificate (ISACA)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Microsoft Azure Cloud Infrastructure Administration</li>
+                <li>Azure Solutions Architecture</li>
+                <li>Infrastructure as Code (IaC) : ARM Template and Bicep</li>
+                <li>Compliance and Monitoring: Azure monitor and Grafana</li>
+                <li>Scripting: PowerShell</li>
+                <li>Database Management: SQL</li>
+                <li>Microsoft Intune</li>
+                <li>Microsoft Entra ID (Azure Active Directory)</li>
+                <li>SharePoint</li>
+                <li>IT Audit</li>
+                <li>PowerPoint Presentation</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Achievements & Awards</h2>
+            <ul>
+                <li>Petroleum Technology Development Fund Masters Scholarship (2017 - 2018)</li>
+                <li>Chevron - Agbami Medical And Engineering Professional Undergraduate Scholarship Award (2011 - 2015)</li>
+                <li>Leadership Award, Students' Union Government, University Of Port Harcourt (2015)</li>
+                <li>Award Of Excellence For Outstanding Leadership, Federal Road Safety Corps (FRSC) CDS group (2016)</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>References</h2>
+            <ul>
+                <li><strong>Adedamola Yusuf</strong> - PwC Nigeria, Partner and Technology Business Leader</li>
+                <p>Email
+
